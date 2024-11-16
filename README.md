@@ -57,7 +57,7 @@ Welcome to my GitHub! I am passionate about using technology to solve problems a
 ---
 
 ## **📫 Get in Touch**  
-- **Email**: [nwizugbeflorence@gmail.com]  
+
 - **LinkedIn**: <a href="https://ng.linkedin.com/in/florence-nwizugbe-515a0024b">Florence Nwizugbe</a></h1>  
   
 
