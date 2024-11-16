@@ -17,7 +17,7 @@ Welcome to my GitHub! I am passionate about using technology to solve problems a
   - Cisco Cybersecurity Fundamentals  
   - Data Analysis with Python (Datacamp)  
   - Customer Analytics (Coursera)  
-  - <a href="https://learn.microsoft.com/api/credentials/share/en-us/FlorenceChinyereNwizugbe-3787/A8FB6B1216C6E98A?sharingId=8C27FB58D0039812">Microsoft Fundamentals AZ-900</a></h1>
+  - <a href="https://learn.microsoft.com/api/credentials/share/en-us/FlorenceChinyereNwizugbe-3787/A8FB6B1216C6E98A?sharingId=8C27FB58D0039812">Azure Fundamentals AZ-900</a></h1>
 ---
 
 ## **🔧 Skills**
